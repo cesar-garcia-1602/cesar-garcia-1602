@@ -1,7 +1,7 @@
 ![https://github.com/cesar-garcia-1602](https://github.com/cesar-garcia-1602/cesar-garcia-1602/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm César García</h1>
 <h3 align="center">Mechatronics engineer</h3>
-<img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/7e/b2/49/7eb249f2fd2e58e9ad6dd60ef892971b.gif">
+<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/7e/b2/49/7eb249f2fd2e58e9ad6dd60ef892971b.gif">
 
 - 🔭 I’m currently working on **Information and Knowledge Management (IKM)**
 
