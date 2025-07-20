@@ -3,7 +3,7 @@
 <h3 align="center">Mechatronics engineer</h3>
 <img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/7e/b2/49/7eb249f2fd2e58e9ad6dd60ef892971b.gif">
 
-- 🔭 I’m currently working on **Melius I+D**
+- 🔭 I’m currently working on **Information and Knowledge Management (IKM)**
 
 - 🌱 I’m currently learning **Backend development**
 
